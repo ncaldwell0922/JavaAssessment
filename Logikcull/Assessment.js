@@ -27,5 +27,5 @@ function longestSubString(array) {
     }
     return longest
 }
-
+console.log("Longest Substring: aaa, aabaa, babba, a")
 console.log(longestSubString(["aaa", "aabaa", "babba", "a"]))
